@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(200, 200, 200);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* seletor de classe */
+.central{
+    text-align: center;
+}
+.item-menu{
+    display: inline;
+    margin: 0.4rem;
+    background-color: antiquewhite;
+    padding: 0.7rem;
+    padding-right: 1rem;
+    border-right-style: solid;
+    border-color: yellow;
+}
+.item-menu a:hover{
+    background-color: rgb(198, 119, 223);
+    color: dimgray;
+    text-decoration: none;
+}
+.menu{
+    background-color: antiquewhite;
+    padding:0.7rem;
+}
+td{
+    padding: 0.4rem;
+}
